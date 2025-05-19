@@ -49,7 +49,8 @@
 
 ## Вариативная часть задания
 
-Формулировка задания вариативной части и выбранная тематика (если есть). Приведите также дополнительные ссылки на источники задания (если есть).
+Задание состоит в том, чтобы реализовать в браузере игру "Snake" с помощью HTML, CSS и JS.
+[How to build Snake using only JavaScript, HTML & CSS](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e)
 
 ## Ответственный по проектной (учебной) практике
 
