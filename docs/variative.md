@@ -11,7 +11,7 @@
 ## ⚙️ Стек технологий
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
