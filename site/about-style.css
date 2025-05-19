@@ -29,7 +29,7 @@ a {
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     color: #fff;
-    font-size: 2rem; /* Увеличено с 2rem (20px) до 2.2rem (22px) */
+    font-size: 2rem; 
 }
 
 header {
@@ -100,14 +100,14 @@ header nav a {
     font-family: 'Montserrat', sans-serif;
     color: #4CAF50;
     margin: 1.5rem 0 1rem;
-    font-size: 2.4rem; /* Увеличено с 2rem (20px) до 2.4rem (24px) */
+    font-size: 2.4rem; 
 }
 
 .about-project h3 {
     font-family: 'Montserrat', sans-serif;
     color: #666;
     margin: 1rem 0 0.5rem;
-    font-size: 2.2rem; /* Увеличено с 1.8rem (18px) до 2rem (20px) */
+    font-size: 2.2rem; 
 }
 
 .about-project p {
@@ -145,7 +145,7 @@ header nav a {
     text-align: center;
     font-style: italic;
     color: #666;
-    font-size: 1.6rem; /* Увеличено с 1.4rem (14px) до 1.6rem (16px) */
+    font-size: 1.6rem;
     margin-top: 0.5rem;
 }
 
@@ -158,7 +158,7 @@ header nav a {
 }
 
 .resources-list li {
-    font-size: 1.6rem; /* Увеличено с 1.4rem (14px) до 1.6rem (16px) */
+    font-size: 1.6rem; 
     margin-bottom: 0.5rem;
 }
 
@@ -196,7 +196,7 @@ header nav a {
     }
 
     header nav a {
-        font-size: 1.8rem; /* Увеличено с 1.6rem (16px) до 1.8rem (18px) */
+        font-size: 1.8rem; 
     }
 
     .about-project .wrapper {
@@ -204,23 +204,23 @@ header nav a {
     }
 
     .about-project h1 {
-        font-size: 2.4rem; /* Увеличено с 2rem (20px) до 2.4rem (24px) */
+        font-size: 2.4rem; 
     }
 
     .about-project h2 {
-        font-size: 2rem; /* Увеличено с 1.8rem (18px) до 2rem (20px) */
+        font-size: 2rem; 
     }
 
     .about-project h3 {
-        font-size: 1.8rem; /* Увеличено с 1.6rem (16px) до 1.8rem (18px) */
+        font-size: 1.8rem; 
     }
 
     .about-project p {
-        font-size: 1.6rem; /* Увеличено с 1.4rem (14px) до 1.6rem (16px) */
+        font-size: 1.6rem; 
     }
 
     .about-project ul li, .about-project ol li {
-        font-size: 1.6rem; /* Увеличено с 1.4rem (14px) до 1.6rem (16px) */
+        font-size: 1.6rem; 
     }
 
     .about-project img {
@@ -228,10 +228,10 @@ header nav a {
     }
 
     .about-project figcaption {
-        font-size: 1.4rem; /* Увеличено с 1.2rem (12px) до 1.4rem (14px) */
+        font-size: 1.4rem; 
     }
 
     .resources-list li {
-        font-size: 1.4rem; /* Увеличено с 1.2rem (12px) до 1.4rem (14px) */
+        font-size: 1.4rem; 
     }
 }

@@ -72,10 +72,7 @@ header nav a {
     transition: color 0.3s ease;
 }
 
-header nav a:hover,
-header nav a.active {
-    color: red;
-}
+
 
 .resources {
     background: white;
@@ -113,7 +110,7 @@ header nav a.active {
 }
 
 .resource-category ul li {
-    font-size: 1.6rem;
+    font-size: 2rem;
     margin-bottom: 0.8rem;
 }
 
@@ -126,6 +123,10 @@ header nav a.active {
 
 .resource-category ul li a:hover {
     color: #388E3C;
+}
+
+.resources-list {
+    font-size: 1.6rem;
 }
 
 @media (max-width: 768px) {
