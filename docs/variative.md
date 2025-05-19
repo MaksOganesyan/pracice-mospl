@@ -7,7 +7,6 @@
 **Источники:**
 - [Туториал от freeCodeCamp](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
 - Документация по JavaScript (MDN)
-- Игры Snake в старых телефонах Nokia
 
 ## ⚙️ Стек технологий
 - HTML
